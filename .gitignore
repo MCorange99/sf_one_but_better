@@ -1,0 +1,18 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!config/
+!defaultconfigs/
+!global_data_packs/
+!global_resource_packs/
+!journeymap/
+!packamenu/
+
+# etc...
+
+# ...even if they are in subdirectories
+!*/
+
+# if the files to be tracked are in subdirectories
