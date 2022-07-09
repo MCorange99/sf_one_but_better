@@ -1,10 +1,10 @@
 # Ignore everything
-#*
+*
 
 # But not these files...
 !.gitignore
 !config/
-!defaultconfigs/
+!defaultgitignoreconfigs/
 !global_data_packs/
 !global_resource_packs/
 !journeymap/
