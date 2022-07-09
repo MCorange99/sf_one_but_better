@@ -1,7 +1,9 @@
 {
-  "conditions": [
-    {
-      "type": "forge:false"
-    }
-  ]
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "exnihilosequentia:chunk_uranium"
+  },
+  "result": "exnihilosequentia:ingot_uranium",
+  "experience": 0.7,
+  "cookingtime": 100
 }
