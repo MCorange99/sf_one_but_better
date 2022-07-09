@@ -1,6 +1,10 @@
 # Ignore everything
 # *
 
+# also ignore these
+tmp
+
+
 # But not these files...
 !.gitignore
 !config/
