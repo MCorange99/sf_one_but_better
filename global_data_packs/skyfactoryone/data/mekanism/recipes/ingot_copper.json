@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "mekanism",
+    "ingredients": [
+        {
+          "item": "mekanism:ingot_copper"
+        },
+        {
+          "item": "mekanism:ingot_copper"
+        }
+    ],
+
+    "result": {
+      "item": "thermal:copper_ingot",
+      "count": 2
+    }
+  }
