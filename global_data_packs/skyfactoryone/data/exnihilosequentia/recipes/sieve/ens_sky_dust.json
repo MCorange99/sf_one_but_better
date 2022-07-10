@@ -7,9 +7,9 @@
       }
     ],
     "input": {
-      "item": "minecraft:gravel"
+      "item": "exnihilosequentia:dust"
     },
     "result": {
-      "item": "exnihilosequentia:piece_uranium"
+      "item": "appliedenergistics2:sky_dust"
     }
   }

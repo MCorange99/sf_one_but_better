@@ -21,3 +21,5 @@ tmp
 !*/
 
 # if the files to be tracked are in subdirectories
+logs/debug.log
+logs/latest.log

@@ -1,7 +1,15 @@
 {
-  "conditions": [
-    {
-      "type": "forge:false"
+    "type": "exnihilosequentia:sieve",
+    "rolls": [
+      {
+        "chance": 0.1,
+        "mesh": "string"
+      }
+    ],
+    "input": {
+      "item": "minecraft:gravel"
+    },
+    "result": {
+      "item": "exnihilosequentia:piece_uranium"
     }
-  ]
-}
+  }
